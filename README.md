@@ -3,11 +3,15 @@
 
 synergy 1.4.18-r2250 - The last free (gratis) synergy available
 
-Or is it: https://github.com/synergy/synergy
+Or is it: https://github.com/synergy/synergy (source code of newest versions
+available there)
 
-http://synergy-project.org/
-http://synergy-project.org/download/free/
-http://synergy-project.org/wiki/Compiling
+Website:			http://synergy-project.org/
+Last free (gratis) downloads:	http://synergy-project.org/download/free/
+
+Help:				http://synergy-project.org/help/
+Wiki:				http://synergy-project.org/wiki/
+How to compile:			http://synergy-project.org/wiki/Compiling
 
 ===========
 DESCRIPTION
