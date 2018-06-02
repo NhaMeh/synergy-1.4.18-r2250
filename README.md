@@ -18,8 +18,8 @@ LINKS
 =====
 
 Website: https://symless.com/synergy/  
-Last free (gratis) downloads: http://synergy-project.org/download/free/ (No longer there)
+Last free (gratis) downloads: https://web.archive.org/web/20150209072147/http://synergy-project.org/download/free/
 
 Help: https://symless.com/synergy/help  
-Wiki: http://synergy-project.org/wiki/ (No longer there)  
-How to compile: http://synergy-project.org/wiki/Compiling (No longer there)
+Wiki: https://web.archive.org/web/20141114011104/http://synergy-project.org/wiki/Main_Page
+How to compile: https://web.archive.org/web/20141114011245/http://synergy-project.org/wiki/Compiling
